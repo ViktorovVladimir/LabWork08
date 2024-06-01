@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finalizers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76600e6d8ed73e6f334391ec90175a37536f0984")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97dd59c9273e0bcc0382e6048a9dfffb1f450054")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finalizers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finalizers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

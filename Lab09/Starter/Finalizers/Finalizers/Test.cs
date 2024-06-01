@@ -1,40 +1,29 @@
 ﻿using System;
 
-namespace ConstructorsBTNameSpace
+namespace FinalizersNameSpace
 {
     class Test
     {
         //--.
         static void Main()
         {
-            BankAccount acc1, acc2, acc3, acc4;
+            using (BankAccount acc1 = new BankAccount())
+            {
+                acc1.Deposit(1000);
+                acc1.Deposit(700);
+                acc1.Deposit(400);
+                acc1.Deposit(200);
 
-            acc1 = new BankAccount();
-            acc2 = new BankAccount(AccountType.Deposit);
-            acc3 = new BankAccount(100);
-            acc4 = new BankAccount(AccountType.Deposit, 500);
+                //--.
+                Write(acc1);
 
-            acc1.Deposit(1000);
-            acc2.Deposit(700);
-            acc3.Deposit(400);
-            acc4.Deposit(200);
-
-            //--.
-            Write(acc1);
-            Write(acc2);
-            Write(acc3);
-            Write(acc4);
-
-            acc1.Withdraw(49);
-            acc2.Withdraw(48);
-            acc3.Withdraw(47);
-            acc4.Withdraw(46);
-
-            //--.
-            Write(acc1);
-            Write(acc2);
-            Write(acc3);
-            Write(acc4);
+                acc1.Withdraw(49);
+                acc1.Withdraw(48);
+                acc1.Withdraw(47);
+                acc1.Withdraw(46);
+                //--.
+                Write(acc1);
+            }
         }
 
         //--.

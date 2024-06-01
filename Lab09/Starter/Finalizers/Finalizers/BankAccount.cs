@@ -2,7 +2,7 @@
 using System;
 using System.Collections;
 
-class BankAccount
+sealed class BankAccount : IDisposable
 {
     long accNo;
     decimal accBal;
@@ -13,7 +13,7 @@ class BankAccount
     static long nextAccNo = 123;
 
     //--.
-
+    bool disposed = false;
 
     //--.
     public BankAccount()
@@ -115,6 +115,37 @@ class BankAccount
         {
             this.Deposit(amount);
         }
-    } 
+    }
+
+    //--.
+    public void Dispose()
+    {
+
+        if (!disposed)
+        {
+            StreamWriter swFile = File.AppendText("Transactions.Dat");
+            swFile.WriteLine("Account number is {0}", accNo);
+            swFile.WriteLine("Account balance is {0}", accBal);
+            swFile.WriteLine("Account type is {0}", accType);
+            swFile.WriteLine("Transactions: ");
+            //--.
+            foreach (BankTransaction tran in tranQueue)
+            {
+                swFile.WriteLine("Date/Time: {0}\tAmount: {1}", tran.funcWhen(), tran.funcAmount());
+            }
+            swFile.Close();
+            disposed = true;
+            GC.SuppressFinalize(this);
+        }
+
+    }
+
+    //--.
+    ~BankAccount()
+    {
+        Dispose();
+    }
+
+
 
 }

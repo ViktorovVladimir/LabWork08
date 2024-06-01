@@ -1,0 +1,15 @@
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net8.0\Finalizers.exe
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net8.0\Finalizers.deps.json
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net8.0\Finalizers.runtimeconfig.json
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net8.0\Finalizers.dll
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\bin\Debug\net8.0\Finalizers.pdb
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.AssemblyInfoInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.AssemblyInfo.cs
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.sourcelink.json
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.dll
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\refint\Finalizers.dll
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.pdb
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\Finalizers.genruntimeconfig.cache
+D:\Labs\LabWork08\Lab09\Starter\Finalizers\Finalizers\obj\Debug\net8.0\ref\Finalizers.dll

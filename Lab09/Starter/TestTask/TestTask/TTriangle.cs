@@ -5,6 +5,25 @@ using System.IO.MemoryMappedFiles;
 public class TTriangle
 {
     TPoint p1, p2, p3;
+    double side1Len, side2Len, side3Len;
+
+    //--.
+    public TTriangle(double sideLen1, double sideLen2, double sideLen3 )
+    {
+        this.side1Len = sideLen1;
+        this.side2Len = sideLen2;  
+        this.side3Len = sideLen3;
+    }
+
+    //--.
+    public TTriangle(double sideLen)
+    {
+        this.side1Len = sideLen;
+        this.side2Len = sideLen;
+        this.side3Len = sideLen;
+    }
+
+
 
     //--.
     public TTriangle() 
@@ -16,6 +35,9 @@ public class TTriangle
         this.p2 = p2;
         this.p3 = p3;
     }
+
+    
+
 
     //--.
     public  (double sideLen1, double sideLen2, double sideLen3) getSedeLength()

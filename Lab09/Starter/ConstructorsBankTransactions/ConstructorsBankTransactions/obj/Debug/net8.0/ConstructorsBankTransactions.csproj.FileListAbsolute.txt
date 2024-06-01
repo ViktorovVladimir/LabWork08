@@ -1,0 +1,15 @@
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.AssemblyInfoInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.AssemblyInfo.cs
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.sourcelink.json
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\bin\Debug\net8.0\ConstructorsBankTransactions.exe
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\bin\Debug\net8.0\ConstructorsBankTransactions.deps.json
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\bin\Debug\net8.0\ConstructorsBankTransactions.runtimeconfig.json
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\bin\Debug\net8.0\ConstructorsBankTransactions.dll
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\bin\Debug\net8.0\ConstructorsBankTransactions.pdb
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.dll
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\refint\ConstructorsBankTransactions.dll
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.pdb
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ConstructorsBankTransactions.genruntimeconfig.cache
+D:\Labs\LabWork08\Lab09\Starter\ConstructorsBankTransactions\ConstructorsBankTransactions\obj\Debug\net8.0\ref\ConstructorsBankTransactions.dll

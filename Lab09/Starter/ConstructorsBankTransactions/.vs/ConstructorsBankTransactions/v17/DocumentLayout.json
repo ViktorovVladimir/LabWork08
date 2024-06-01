@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|d:\\labs\\labwork08\\lab09\\starter\\constructorsbanktransactions\\constructorsbanktransactions\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|solutionrelative:constructorsbanktransactions\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|d:\\labs\\labwork08\\lab09\\starter\\constructorsbanktransactions\\constructorsbanktransactions\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|solutionrelative:constructorsbanktransactions\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|d:\\labs\\labwork08\\lab09\\starter\\constructorsbanktransactions\\constructorsbanktransactions\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|solutionrelative:constructorsbanktransactions\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|d:\\labs\\labwork08\\lab09\\starter\\constructorsbanktransactions\\constructorsbanktransactions\\inputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC976EF-DC2F-4357-AD5D-E7C974AE0D1D}|ConstructorsBankTransactions\\ConstructorsBankTransactions.csproj|solutionrelative:constructorsbanktransactions\\inputmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\AccountType.cs",
+              "RelativeDocumentMoniker": "ConstructorsBankTransactions\\AccountType.cs",
+              "ToolTip": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\AccountType.cs",
+              "RelativeToolTip": "ConstructorsBankTransactions\\AccountType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:17:07.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ConstructorsBankTransactions\\BankAccount.cs",
+              "ToolTip": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\BankAccount.cs",
+              "RelativeToolTip": "ConstructorsBankTransactions\\BankAccount.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAIAxwGAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:17:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputModule.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\InputModule.cs",
+              "RelativeDocumentMoniker": "ConstructorsBankTransactions\\InputModule.cs",
+              "ToolTip": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\InputModule.cs",
+              "RelativeToolTip": "ConstructorsBankTransactions\\InputModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:16:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\Test.cs",
+              "RelativeDocumentMoniker": "ConstructorsBankTransactions\\Test.cs",
+              "ToolTip": "D:\\Labs\\LabWork08\\Lab09\\Starter\\ConstructorsBankTransactions\\ConstructorsBankTransactions\\Test.cs",
+              "RelativeToolTip": "ConstructorsBankTransactions\\Test.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:16:36.296Z",
+              "EditorCaption": ""
             }
           ]
         }

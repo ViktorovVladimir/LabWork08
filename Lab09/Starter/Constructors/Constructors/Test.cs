@@ -25,7 +25,7 @@ namespace ConstructorsSpace
         static void Write(BankAccount acc) 
         {
             Console.WriteLine("Account number is {0}", acc.Number() );
-            Console.WriteLine("Account number is {0}", acc.Ballance());
+            Console.WriteLine("Account ballance is {0}", acc.Ballance());
             Console.WriteLine("Account type is {0}", acc.Type());
             
         }

@@ -10,12 +10,39 @@ class BankAccount
     static long nextAccNo = 123;
 
     //--.
-    public void Populate( decimal balance )
+    public BankAccount()
     {
         this.accNo = NextNumber();
-        this.accBal = balance;
         this.accType = AccountType.Checking;
+        this.accBal = 0;
     }
+
+    //--.
+    public BankAccount(AccountType aType)
+    {
+        this.accNo = NextNumber();
+        this.accType = aType;
+        this.accBal = 0;
+
+    }
+    
+    //--.
+    public BankAccount(decimal aBal)
+    {
+        this.accNo = NextNumber();
+        this.accType = AccountType.Checking;
+        this.accBal = aBal;
+    }
+    
+    //--.
+    public BankAccount(AccountType aType, decimal aBal)
+    {
+        this.accNo = NextNumber();
+        this.accType = aType;
+        this.accBal = aBal;
+    }
+
+
 
     //--.
     public long Number()

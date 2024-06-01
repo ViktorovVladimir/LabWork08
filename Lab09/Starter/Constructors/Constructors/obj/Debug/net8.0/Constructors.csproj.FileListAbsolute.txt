@@ -1,0 +1,15 @@
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\bin\Debug\net8.0\Constructors.exe
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\bin\Debug\net8.0\Constructors.deps.json
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\bin\Debug\net8.0\Constructors.runtimeconfig.json
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\bin\Debug\net8.0\Constructors.dll
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\bin\Debug\net8.0\Constructors.pdb
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfoInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.AssemblyInfo.cs
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.sourcelink.json
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.dll
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\refint\Constructors.dll
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.pdb
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\Constructors.genruntimeconfig.cache
+D:\Labs\LabWork08\Lab09\Starter\Constructors\Constructors\obj\Debug\net8.0\ref\Constructors.dll
